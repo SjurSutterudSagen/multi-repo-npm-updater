@@ -1,8 +1,5 @@
 dapla-js-utilities
 dapla-migration-webclient
-dapla-metadata-explorer
-dapla-metadata-webview
 dapla-user-access-admin
-dapla-react-reference-app
 cra-template-dapla-js-lib
 cra-template-dapla-react-app
