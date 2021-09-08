@@ -15,8 +15,6 @@ This project aggregates Dapla (Statistics Norway Data Platform) JavaScript sourc
 
 ## TODO
 
-* Handle running specific git-repo-update before dependency updating
-* Potentially open PR links in a browser automatically
 * Improve `cd` failure handling
 * Create a dependency tree of our internal js-projects
 
@@ -45,6 +43,9 @@ production when there is a new release on GitHub)
     * yarn upgrade >/dev/null 2>&1
     * check git status for changes
     * check for changes in yarn.lock, set shouldAttemptPR if changes exists
+* Handle running specific git-repo-update before dependency updating
+  * To avoid updating deps on an old version of the master branch (git fetch + git status then update repo if outdated?)
+* Potentially open PR links in a browser automatically
 
 ## References
 
