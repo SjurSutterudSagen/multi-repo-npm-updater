@@ -80,7 +80,7 @@ for repo in "${repoChoice[@]}"; do
       git checkout $mainBranchInRepos >/dev/null 2>&1
     fi
 
-    printf "Pulling latest changes... "
+    printf "Pulling latest changes from git... "
 
     git pull >/dev/null 2>&1
 
