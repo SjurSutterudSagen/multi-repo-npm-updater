@@ -25,6 +25,11 @@ This project aggregates Dapla (Statistics Norway Data Platform) JavaScript sourc
 2 Utilize release and tagging on GitHub (implement a third pipeline template for production tagging and only deploy to
 production when there is a new release on GitHub)
 
+### Todo git-update.sh
+
+* Improve the error handling on line 67 (yarn install >/dev/null 2>&1 || red "Failed to install!"), make it show only
+  the correct message, now shows both the error and success if there is an error
+
 ### Todo dependency-check.sh
 
 * Change output to: repo - dep - type - version
