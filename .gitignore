@@ -2,11 +2,7 @@
 .idea/
 
 dapla-js-utilities/
-dapla-workbench/
 dapla-migration-webclient/
-dapla-metadata-explorer/
-dapla-metadata-webview/
 dapla-user-access-admin/
-dapla-react-reference-app/
 cra-template-dapla-js-lib/
 cra-template-dapla-react-app/
