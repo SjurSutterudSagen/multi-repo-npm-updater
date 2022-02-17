@@ -53,8 +53,7 @@ production when there is a new release on GitHub)
 ## References
 
 * [dapla-js-utilities](https://github.com/statisticsnorway/dapla-js-utilities)
-* [dapla-user-access-admin](https://github.com/statisticsnorway/dapla-user-access-admin)
-* [dapla-migration-webclient](https://github.com/statisticsnorway/dapla-migration-webclient)
+* [dapla-start-ui](https://github.com/statisticsnorway/dapla-start-ui)
 * [cra-template-dapla-js-lib](https://github.com/statisticsnorway/cra-template-dapla-js-lib)
 * [cra-template-dapla-react-app](https://github.com/statisticsnorway/cra-template-dapla-react-app)
 

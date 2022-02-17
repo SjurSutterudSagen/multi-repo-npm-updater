@@ -1,5 +1,4 @@
 dapla-js-utilities
-dapla-migration-webclient
-dapla-user-access-admin
+dapla-start-ui
 cra-template-dapla-js-lib
 cra-template-dapla-react-app
